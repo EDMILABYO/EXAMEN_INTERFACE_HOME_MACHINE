@@ -6,5 +6,15 @@ namespace EXAMEN_INTERFACE_HOME_MACHINE
         {
             InitializeComponent();
         }
+
+        private void BtnHistoriques_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void BtnVentes_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
